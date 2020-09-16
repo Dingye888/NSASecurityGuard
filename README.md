@@ -4,11 +4,16 @@ Developed with Unreal Engine 4
 
 Controls:
 
-W, A, S, D  - Player movement.
-J           - Attack.
-K           - Pickup.
-Spacebar    - Lie-down.
+W, A, S, D  - Player movement
+
+J           - Attack
+
+K           - Pickup
+
+Spacebar    - Lie-down
+
 While in "lie-down", any action to stand back up.
+
 
 Features:
 
