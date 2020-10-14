@@ -2,8 +2,6 @@
 
 Developed with Unreal Engine 4
 
-install and run the executable
-
 Controls:
 ---
 W, A, S, D  - Player movement
@@ -51,4 +49,4 @@ The current tilemap has 3 layers which separate to ground, background, and foreg
 the roof will be separated the in foreground thus blocking the character.
 While the ground and the background are for collisions and the character should be above them.
 
-
+To run - install and run the executables.
