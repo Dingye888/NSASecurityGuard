@@ -50,3 +50,5 @@ the roof will be separated the in foreground thus blocking the character.
 While the ground and the background are for collisions and the character should be above them.
 
 To run - install and run the executables.
+
+game assests are in Comp313 stuff folder
