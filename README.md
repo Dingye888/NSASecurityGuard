@@ -15,15 +15,14 @@ ESC         - Pause
 space-bar   - regenerate hp(while dead)
 
 Gameplay:
-
+---
 The aim of this game is to retain crowd control of the current map. in order to obtain crowd control, the player has to defeat drunk people.
 The drunk type will damage all types of people, and if any normal people die, some cc will be lost. The main character cannot be killed,
 but he will lose cc and be in a downed state. He then can be revived by pressing the spacebar. 
 
----
 
 Features:
-
+---
 Custom robust movements -
 
 Best attempt at having 0 acceleration, to create the retro top-down pixel game style.
