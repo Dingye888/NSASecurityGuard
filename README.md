@@ -3,7 +3,7 @@
 Developed with Unreal Engine 4
 
 Controls:
-
+---
 W, A, S, D  - Player movement
 
 J           - Attack
