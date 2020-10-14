@@ -12,8 +12,8 @@ K           - Pickup
 
 ESC         - Pause
 
-space-bar   -  regenerate hp (while dead).
----
+space-bar   - regenerate hp(while dead)
+
 Gameplay:
 
 The aim of this game is to retain crowd control of the current map. in order to obtain crowd control, the player has to defeat drunk people.
