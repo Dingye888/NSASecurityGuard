@@ -4,7 +4,7 @@ Developed with Unreal Engine 4.
 
 Blueprint discription can be found on - https://www.youtube.com/watch?v=obtvcXmW4MQ
 
-![Code Reflection.pdf](Code_Reflection.pdf)
+[Code Reflection.pdf](Code_Reflection.pdf)
 
 Controls:
 ---
@@ -57,4 +57,4 @@ To run - install and run the executables.
 
 game assests are in Comp313 stuff folder
 
-
+[nsasg](/screen/nsasg.JPG)
