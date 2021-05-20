@@ -55,4 +55,4 @@ To run - install and run the executables.
 
 game assests are in Comp313 stuff folder
 
-[Code Reflection.pdf](https://github.com/Dingye888/NSASecurityGuard/files/6513024/Code.Reflection.pdf)
+[Code Reflection.pdf](Code Reflection.pdf)
