@@ -57,4 +57,4 @@ To run - install and run the executables.
 
 game assests are in Comp313 stuff folder
 
-[nsasg](/screen/nsasg.JPG)
+![nsasg](/screen/nsasg.JPG)
