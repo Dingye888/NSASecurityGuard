@@ -1,6 +1,7 @@
 # NSASecurityGuard
 
 Developed with Unreal Engine 4.
+
 Blueprint discription can be found on - https://www.youtube.com/watch?v=obtvcXmW4MQ
 
 Controls:
@@ -53,3 +54,5 @@ While the ground and the background are for collisions and the character should 
 To run - install and run the executables.
 
 game assests are in Comp313 stuff folder
+
+[Code Reflection.pdf](https://github.com/Dingye888/NSASecurityGuard/files/6513024/Code.Reflection.pdf)
