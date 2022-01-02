@@ -56,7 +56,8 @@ While the ground and the background are for collisions and the character should 
 To run - install and run the executables.
 
 game assests are in Comp313 stuff folder
-
+![nsasg](/screen/blueprint.png)
+![nsasg](/screen/box.png)
 ![nsasg](/screen/nsasg.JPG)
 ![nsasg](/screen/bar.JPG)
 ![nsasg](/screen/oasis.JPG)
